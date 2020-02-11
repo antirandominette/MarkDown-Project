@@ -1,0 +1,1 @@
+export const sampleText = '# Titre\n## Sous-Titre \n### Titre plus profond\n\nles paragraphes sont séparés\npar une ligne vide.\n\nLaissez deux espaces à la fin d\'une ligne pour \naller à la ligne.\n\nAttributs *italiques*, **gras**, `monospace`, ~~rayé~~.\n\nListe:\n\n * pommes\n * oranges\n * poires\n\nliste numérotée:\n\n 1. jambon\n 2. cornichon\n 3. pain'

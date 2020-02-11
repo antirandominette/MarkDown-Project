@@ -1,0 +1,22 @@
+body
+{
+  color: #fff;
+  background-color: #121212;
+}
+
+.container
+{
+  margin-top: 25px;
+}
+
+.form-control
+{
+  background-color: #121212;
+  color: #fff;
+}
+
+.form-control:focus
+{
+  background-color: #121212;
+  color: #fff;
+}
